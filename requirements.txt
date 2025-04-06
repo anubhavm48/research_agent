@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+coloredlogs
+pydantic
+langchain_core
+langgraph
+networkx
+langchain_community
+ipython
+requests
+mistralai
+langchain_mistralai
+
