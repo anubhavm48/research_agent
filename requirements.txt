@@ -11,4 +11,3 @@ ipython
 requests
 mistralai
 langchain_mistralai
-
